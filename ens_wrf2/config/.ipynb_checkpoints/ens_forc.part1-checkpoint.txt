@@ -1,0 +1,10 @@
+&PARAMS
+start_time	   = 1
+ntimes		   = NDays
+start_ens	   = StartEns
+stop_ens	   = StopEns
+clen		   = 150.0
+grid_name	   = "GridInfo"
+in_regr_name	   = "InRegrFile"
+out_forc_name_base = "OutEnsForcRoot"
+/

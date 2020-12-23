@@ -1,0 +1,1 @@
+/glade/u/home/hongli/scratch/2019_10_01gssha/ens_forc_wrf2/test_uniform/026grids/inputs/stnlist_slope.txt
